@@ -18,7 +18,7 @@ I'm a Full Stack Developer with over 6 years of experience in building scalable 
    - Technologies: React.js, TypeScript, Redux, Material UI, PostgreSQL
 
 ## Resume
-You can download my resume [here](./resumes/SAGAR%20CHIPPA-.pdf).
+You can download my resume [here]"C:\Users\kushd\OneDrive\Desktop\resume\SAGAR CHIPPA-.pdf"
 
 ## Contact Me
 - Email: [sagardevtech@gmail.com](mailto:sagardevtech@gmail.com)
