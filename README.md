@@ -23,4 +23,4 @@ You can download my resume [here](./resumes/SAGAR%20CHIPPA-.pdf).
 ## Contact Me
 - Email: [sagardevtech@gmail.com](mailto:sagardevtech@gmail.com)
 - Phone: +91-9001449092
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sagar-chippa)
+- LinkedIn: https://www.linkedin.com/in/sagar-chhipa-290839142/
